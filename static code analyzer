@@ -1,0 +1,14 @@
+STATIC CODE ANALYSIS LIBRARY
+Scan your code in search for exploits not available on first sight.
+
+https://github.com/PyCQA/bandit
+https://github.com/thesp0nge/dawnscanner
+https://github.com/securing/dumpsterdiver
+https://github.com/kost/dvcs-ripper
+https://github.com/zricethezav/gitleaks
+https://github.com/securego/gosec
+https://github.com/carlospolop/leakos
+https://github.com/Dionach/reposcanner
+https://github.com/RetireJS/retire.js
+https://github.com/m4ll0k/SecretFinder
+https://github.com/trufflesecurity/trufflehog
